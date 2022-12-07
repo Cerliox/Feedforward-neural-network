@@ -1,4 +1,4 @@
-# NeuralNetworkImplementation
+# Feedforward neural network
 Just a simple Feedforward neural network implementation in C++
 
 ## What is this?
